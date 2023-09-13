@@ -24,6 +24,8 @@ public class Ruin {
 		
 		int currentBalance = startAmount;
 		
+		while (int totalSimulation = 1;)
+		
 		if (currentBalance < winLimit)
 		{
 		
